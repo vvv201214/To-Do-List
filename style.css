@@ -1,0 +1,87 @@
+
+body h2{
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#body{
+    background-color: red;
+    font-size: xx-large;
+    margin-top: 40px;
+    
+}
+
+#btn{
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 10px;
+    padding: 2.5%;
+    background-color: green;
+    color: white;
+    padding-left: 7%;
+    padding-right: 7%;  
+    margin-left: 11%;  
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#dlt{
+    margin: 10px;
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 10px;
+    padding: 2%;
+    background-color: red;
+    color: white;
+    padding-left: 7%;
+    padding-right: 7%;  
+    margin-left: 11%;  
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#enter-value{
+    padding: 2%;
+    padding-right: 28%;
+    border-radius: 10px;
+    border: 1px solid rgb(177, 177, 177);
+    margin-left: 2%;
+    font-size: 20px;
+}
+#container{
+    padding-top: 2px;
+    padding-bottom: 2px;
+    width: 75%;
+    height: auto;
+    margin-bottom: 5%;
+    margin-top: 30px;
+    margin-left: 12%;
+    background-color: white;
+    border-radius: 10px;
+}
+#body label{
+    margin-left: 300px;
+    text-align: center;
+    font-style: oblique;
+} 
+#sub_container li{
+    border: 1px solid rgb(177, 177, 177);
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    margin-left: -10px;
+    margin-bottom: 10px;
+}
+#sub_container h4{
+    margin: 13px;
+}
+
+#sub_container{
+    padding-top: 10px;   
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-left: 45px;
+    width: 90%;
+    height: auto;
+    border-radius: 15px;
+    border: 1px solid rgb(177, 177, 177);
+    box-shadow: 1px 1px 45px 10px rgb(201, 199, 199);
+} 
